@@ -1,0 +1,265 @@
+C:\Users\Administrator\Desktop\SmartIrrigationCurrent1\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.exe
+C:\Users\Administrator\Desktop\SmartIrrigationCurrent1\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.pdb
+C:\Users\Administrator\Desktop\SmartIrrigationCurrent1\SmartIrrigationBusinessLayer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SmartIrrigationCurrent1\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SmartIrrigationCurrent1\SmartIrrigationBusinessLayer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\SmartIrrigationCurrent1\SmartIrrigationBusinessLayer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\SmartIrrigationCurrent1\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.exe
+C:\Users\Administrator\Desktop\SmartIrrigationCurrent1\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.pdb
+C:\Users\Administrator\Desktop\smartCurrent\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.exe
+C:\Users\Administrator\Desktop\smartCurrent\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.pdb
+C:\Users\Administrator\Desktop\smartCurrent\SmartIrrigationBusinessLayer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\smartCurrent\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\smartCurrent\SmartIrrigationBusinessLayer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\smartCurrent\SmartIrrigationBusinessLayer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\smartCurrent\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.exe
+C:\Users\Administrator\Desktop\smartCurrent\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.pdb
+C:\Users\dell\Desktop\smartCurrent\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.exe
+C:\Users\dell\Desktop\smartCurrent\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.pdb
+C:\Users\dell\Desktop\smartCurrent\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.Properties.Resources.resources
+C:\Users\dell\Desktop\smartCurrent\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\smartCurrent\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.exe
+C:\Users\dell\Desktop\smartCurrent\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.pdb
+C:\Users\Administrator\Desktop\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.exe
+C:\Users\Administrator\Desktop\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.pdb
+C:\Users\Administrator\Desktop\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.exe
+C:\Users\Administrator\Desktop\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.pdb
+C:\Users\Administrator\Desktop\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Administrator\Desktop\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Administrator\Desktop\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Administrator\Desktop\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Administrator\Desktop\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\Administrator\Desktop\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Administrator\Desktop\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\Administrator\Desktop\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Administrator\Desktop\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Administrator\Desktop\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.exe.config
+C:\Users\Administrator\Desktop\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Administrator\Desktop\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\Administrator\Desktop\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\dell\Desktop\todayChand\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.exe.config
+C:\Users\dell\Desktop\todayChand\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.exe
+C:\Users\dell\Desktop\todayChand\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.pdb
+C:\Users\dell\Desktop\todayChand\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\dell\Desktop\todayChand\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\dell\Desktop\todayChand\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\dell\Desktop\todayChand\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\dell\Desktop\todayChand\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\dell\Desktop\todayChand\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\dell\Desktop\todayChand\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\dell\Desktop\todayChand\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\dell\Desktop\todayChand\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\dell\Desktop\todayChand\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\dell\Desktop\todayChand\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\dell\Desktop\todayChand\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\dell\Desktop\todayChand\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\todayChand\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.Properties.Resources.resources
+C:\Users\dell\Desktop\todayChand\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\todayChand\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.exe
+C:\Users\dell\Desktop\todayChand\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.pdb
+F:\ \recent\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.exe.config
+F:\ \recent\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.exe
+F:\ \recent\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.pdb
+F:\ \recent\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.Unity.dll
+F:\ \recent\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\ \recent\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+F:\ \recent\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+F:\ \recent\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+F:\ \recent\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+F:\ \recent\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+F:\ \recent\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.Unity.pdb
+F:\ \recent\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\ \recent\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+F:\ \recent\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ \recent\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.Properties.Resources.resources
+F:\ \recent\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\ \recent\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\ \recent\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.exe
+F:\ \recent\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.pdb
+G:\ \recent\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.exe.config
+G:\ \recent\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.exe
+G:\ \recent\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.pdb
+G:\ \recent\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.Unity.dll
+G:\ \recent\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+G:\ \recent\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+G:\ \recent\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+G:\ \recent\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+G:\ \recent\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+G:\ \recent\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+G:\ \recent\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.Unity.pdb
+G:\ \recent\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+G:\ \recent\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+G:\ \recent\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.csprojResolveAssemblyReference.cache
+G:\ \recent\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.Properties.Resources.resources
+G:\ \recent\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.csproj.GenerateResource.Cache
+G:\ \recent\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.exe
+G:\ \recent\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.pdb
+C:\Users\Muhammad Akif\Downloads\Desktop\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.exe.config
+C:\Users\Muhammad Akif\Downloads\Desktop\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.exe
+C:\Users\Muhammad Akif\Downloads\Desktop\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.pdb
+C:\Users\Muhammad Akif\Downloads\Desktop\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Muhammad Akif\Downloads\Desktop\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Muhammad Akif\Downloads\Desktop\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Muhammad Akif\Downloads\Desktop\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\Muhammad Akif\Downloads\Desktop\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Muhammad Akif\Downloads\Desktop\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\Muhammad Akif\Downloads\Desktop\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Muhammad Akif\Downloads\Desktop\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\Muhammad Akif\Downloads\Desktop\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Muhammad Akif\Downloads\Desktop\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Muhammad Akif\Downloads\Desktop\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Akif\Downloads\Desktop\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.Properties.Resources.resources
+C:\Users\Muhammad Akif\Downloads\Desktop\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.csproj.GenerateResource.Cache
+C:\Users\Muhammad Akif\Downloads\Desktop\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.exe
+C:\Users\Muhammad Akif\Downloads\Desktop\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.pdb
+C:\Users\Administrator\Desktop\Integration\FArwa 9-1-14 2.33\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.exe.config
+C:\Users\Administrator\Desktop\Integration\FArwa 9-1-14 2.33\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.exe
+C:\Users\Administrator\Desktop\Integration\FArwa 9-1-14 2.33\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.pdb
+C:\Users\Administrator\Desktop\Integration\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.exe.config
+C:\Users\Administrator\Desktop\Integration\Final\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.exe
+C:\Users\Administrator\Desktop\Integration\Final\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.pdb
+F:\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.exe.config
+F:\Final\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.exe
+F:\Final\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.pdb
+F:\ \recent\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.exe.config
+F:\ \recent\Final\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.exe
+F:\ \recent\Final\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.pdb
+F:\ \recent\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.exe
+F:\ \recent\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.pdb
+F:\ \recent\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.Unity.dll
+F:\ \recent\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\ \recent\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+F:\ \recent\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+F:\ \recent\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+F:\ \recent\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+F:\ \recent\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+F:\ \recent\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.Unity.pdb
+F:\ \recent\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\ \recent\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+F:\ \recent\Final\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ \recent\Final\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.Properties.Resources.resources
+F:\ \recent\Final\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\ \recent\Final\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.exe.config
+C:\Users\Administrator\Desktop\Final\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.exe
+C:\Users\Administrator\Desktop\Final\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.pdb
+C:\Users\Administrator\Desktop\Final\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Final\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Final\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\Final\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.exe
+C:\Users\Administrator\Desktop\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.pdb
+C:\Users\Administrator\Desktop\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Administrator\Desktop\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Administrator\Desktop\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Administrator\Desktop\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\Administrator\Desktop\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Administrator\Desktop\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\Administrator\Desktop\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Administrator\Desktop\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\Administrator\Desktop\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Administrator\Desktop\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Administrator\Desktop\KFRL\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.exe.config
+C:\Users\Administrator\Desktop\KFRL\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.exe
+C:\Users\Administrator\Desktop\KFRL\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.pdb
+C:\Users\Administrator\Desktop\KFRL\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Administrator\Desktop\KFRL\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Administrator\Desktop\KFRL\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Administrator\Desktop\KFRL\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\Administrator\Desktop\KFRL\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Administrator\Desktop\KFRL\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\Administrator\Desktop\KFRL\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Administrator\Desktop\KFRL\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\Administrator\Desktop\KFRL\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Administrator\Desktop\KFRL\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Administrator\Desktop\KFRL\Final\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\KFRL\Final\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\KFRL\Final\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\KFRL\Final\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\KFRL\Final\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.exe
+C:\Users\Administrator\Desktop\KFRL\Final\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.pdb
+C:\Users\Administrator\Dropbox\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.exe.config
+C:\Users\Administrator\Dropbox\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.exe
+C:\Users\Administrator\Dropbox\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.pdb
+C:\Users\Administrator\Dropbox\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Administrator\Dropbox\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Administrator\Dropbox\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Administrator\Dropbox\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\Administrator\Dropbox\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Administrator\Dropbox\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\Administrator\Dropbox\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Administrator\Dropbox\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\Administrator\Dropbox\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Administrator\Dropbox\Final\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Administrator\Dropbox\Final\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Dropbox\Final\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.Properties.Resources.resources
+C:\Users\Administrator\Dropbox\Final\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Dropbox\Final\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Dropbox\Final\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.exe
+C:\Users\Administrator\Dropbox\Final\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.pdb
+C:\Users\Administrator\Desktop\SI_Project\Software_Configuration\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.exe.config
+C:\Users\Administrator\Desktop\SI_Project\Software_Configuration\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.exe
+C:\Users\Administrator\Desktop\SI_Project\Software_Configuration\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.pdb
+G:\SI_Project\Software_Configuration\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.exe.config
+G:\SI_Project\Software_Configuration\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.exe
+G:\SI_Project\Software_Configuration\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.pdb
+G:\SI_Project\Software_Configuration\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.Unity.dll
+G:\SI_Project\Software_Configuration\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+G:\SI_Project\Software_Configuration\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+G:\SI_Project\Software_Configuration\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+G:\SI_Project\Software_Configuration\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+G:\SI_Project\Software_Configuration\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+G:\SI_Project\Software_Configuration\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+G:\SI_Project\Software_Configuration\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.Unity.pdb
+G:\SI_Project\Software_Configuration\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+G:\SI_Project\Software_Configuration\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+G:\SI_Project\Software_Configuration\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.csprojResolveAssemblyReference.cache
+G:\SI_Project\Software_Configuration\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.Properties.Resources.resources
+G:\SI_Project\Software_Configuration\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.csproj.GenerateResource.Cache
+G:\SI_Project\Software_Configuration\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.exe
+G:\SI_Project\Software_Configuration\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.pdb
+D:\SI_Project\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.exe.config
+D:\SI_Project\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.exe
+D:\SI_Project\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.pdb
+D:\SI_Project\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.csprojResolveAssemblyReference.cache
+D:\SI_Project\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.Properties.Resources.resources
+D:\SI_Project\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.csproj.GenerateResource.Cache
+D:\SI_Project\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.exe
+D:\SI_Project\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.pdb
+C:\Users\Reserch\Desktop\SI_Project\Software_Configuration\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.exe.config
+C:\Users\Reserch\Desktop\SI_Project\Software_Configuration\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.exe
+C:\Users\Reserch\Desktop\SI_Project\Software_Configuration\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.pdb
+C:\Users\Reserch\Desktop\SI_Project\Software_Configuration\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Reserch\Desktop\SI_Project\Software_Configuration\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.Properties.Resources.resources
+C:\Users\Reserch\Desktop\SI_Project\Software_Configuration\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.csproj.GenerateResource.Cache
+C:\Users\Reserch\Desktop\SI_Project\Software_Configuration\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.exe
+C:\Users\Reserch\Desktop\SI_Project\Software_Configuration\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.pdb
+D:\SI_Project11-8-8-15\Software_Configuration\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.exe.config
+D:\SI_Project11-8-8-15\Software_Configuration\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.exe
+D:\SI_Project11-8-8-15\Software_Configuration\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.pdb
+D:\SI_Project-18-8-15\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.exe.config
+D:\SI_Project-18-8-15\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.exe
+D:\SI_Project-18-8-15\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.pdb
+D:\SI_Project-18-8-15\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.csprojResolveAssemblyReference.cache
+D:\SI_Project-18-8-15\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.Properties.Resources.resources
+D:\SI_Project-18-8-15\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.csproj.GenerateResource.Cache
+D:\SI_Project-18-8-15\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.exe
+D:\SI_Project-18-8-15\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.pdb
+D:\SI_Project-29-8-15\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.exe.config
+D:\SI_Project-29-8-15\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.exe
+D:\SI_Project-29-8-15\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.pdb
+C:\Users\User\Dropbox\SI_Project-29-8-15\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.exe.config
+C:\Users\User\Dropbox\SI_Project-29-8-15\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.exe
+C:\Users\User\Dropbox\SI_Project-29-8-15\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.pdb
+C:\Users\User\Dropbox\SI_Project-29-8-15\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\User\Dropbox\SI_Project-29-8-15\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.Properties.Resources.resources
+C:\Users\User\Dropbox\SI_Project-29-8-15\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.csproj.GenerateResource.Cache
+C:\Users\User\Dropbox\SI_Project-29-8-15\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.exe
+C:\Users\User\Dropbox\SI_Project-29-8-15\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.pdb
+C:\Users\Administrator\Desktop\KFRL_SI\SI_Project-29-8-15\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\bin\Debug\SmartIrrigationBusinessLayer.exe.config
+C:\Users\Administrator\Desktop\KFRL_SI\SI_Project-29-8-15\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.exe
+C:\Users\Administrator\Desktop\KFRL_SI\SI_Project-29-8-15\Web Application\smartCurrent24\SmartIrrigationBusinessLayer\obj\x86\Debug\SmartIrrigationBusinessLayer.pdb

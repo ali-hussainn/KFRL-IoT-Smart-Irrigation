@@ -1,0 +1,2500 @@
+
+BEGIN
+Sensor Node: 110
+Soil Moisture Level (one): 56.0
+Soil Moisture Level (two): 59.6
+External Temperature (C): 99
+Humidity (%): 116
+Underground Temperature (C): 105
+Water Flow Data: 110
+END
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 70.0
+Soil Moisture Level (two): 70.0
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 228
+END
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 76.4
+Soil Moisture Level (two): 76.4
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 163
+END
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 78.0
+Soil Moisture Level (two): 77.6
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 157
+END
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 78.0
+Soil Moisture Level (two): 78.0
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 159
+END
+check
+
+BEGIN
+Sensor Node: 110
+Soil Moisture Level (one): 56.0
+Soil Moisture Level (two): 59.6
+External Temperature (C): 99
+Humidity (%): 116
+Underground Temperature (C): 105
+Water Flow Data: 110
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 64.8
+Soil Moisture Level (two): 65.2
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 157
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 71.2
+Soil Moisture Level (two): 71.2
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 159
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 77.6
+Soil Moisture Level (two): 77.2
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 163
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 66.0
+Soil Moisture Level (two): 66.0
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 155
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 65.6
+Soil Moisture Level (two): 66.0
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 163
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 76.4
+Soil Moisture Level (two): 76.4
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 159
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 75.2
+Soil Moisture Level (two): 74.8
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 155
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 66.0
+Soil Moisture Level (two): 66.4
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 161
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 63.6
+Soil Moisture Level (two): 64.0
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 163
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 69.2
+Soil Moisture Level (two): 69.6
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 153
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 78.0
+Soil Moisture Level (two): 78.0
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 161
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 68.8
+Soil Moisture Level (two): 68.8
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 157
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 67.6
+Soil Moisture Level (two): 68.0
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 157
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 74.4
+Soil Moisture Level (two): 74.0
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 155
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 70.8
+Soil Moisture Level (two): 70.8
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 165
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 64.0
+Soil Moisture Level (two): 64.4
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 161
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 70.0
+Soil Moisture Level (two): 69.6
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 157
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 74.4
+Soil Moisture Level (two): 74.0
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 165
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 73.2
+Soil Moisture Level (two): 73.2
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 20
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 74.4
+Soil Moisture Level (two): 74.0
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 52
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 72.4
+Soil Moisture Level (two): 72.4
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 165
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 70.0
+Soil Moisture Level (two): 70.0
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 169
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 65.6
+Soil Moisture Level (two): 66.0
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 172
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 64.0
+Soil Moisture Level (two): 64.8
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 165
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 74.8
+Soil Moisture Level (two): 74.8
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 157
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 75.2
+Soil Moisture Level (two): 74.8
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 162
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 64.0
+Soil Moisture Level (two): 64.0
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 165
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 70.8
+Soil Moisture Level (two): 70.8
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 155
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 77.6
+Soil Moisture Level (two): 77.2
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 163
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 64.8
+Soil Moisture Level (two): 65.2
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 155
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 72.0
+Soil Moisture Level (two): 72.0
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 157
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 71.6
+Soil Moisture Level (two): 71.6
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 167
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 68.8
+Soil Moisture Level (two): 69.2
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 172
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 71.6
+Soil Moisture Level (two): 71.2
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 158
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 72.0
+Soil Moisture Level (two): 72.4
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 169
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 65.6
+Soil Moisture Level (two): 66.0
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 170
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 74.4
+Soil Moisture Level (two): 74.4
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 38
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 73.2
+Soil Moisture Level (two): 73.2
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 68
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 69.2
+Soil Moisture Level (two): 69.2
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 44
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 68.0
+Soil Moisture Level (two): 68.0
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 44
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 68.8
+Soil Moisture Level (two): 68.8
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 60
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 70.4
+Soil Moisture Level (two): 70.4
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 76
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 71.6
+Soil Moisture Level (two): 71.6
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 26
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 71.6
+Soil Moisture Level (two): 71.2
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 250
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 69.6
+Soil Moisture Level (two): 69.6
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 156
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 64.0
+Soil Moisture Level (two): 64.4
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 251
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 67.6
+Soil Moisture Level (two): 68.0
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 159
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 71.6
+Soil Moisture Level (two): 71.6
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 244
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 78.8
+Soil Moisture Level (two): 78.4
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 76
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 78.4
+Soil Moisture Level (two): 78.0
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 161
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 79.2
+Soil Moisture Level (two): 78.8
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 160
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 77.2
+Soil Moisture Level (two): 77.2
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 161
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 68.0
+Soil Moisture Level (two): 68.4
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 155
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 64.0
+Soil Moisture Level (two): 64.0
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 155
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 79.2
+Soil Moisture Level (two): 78.4
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 157
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 64.4
+Soil Moisture Level (two): 65.2
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 155
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 75.2
+Soil Moisture Level (two): 74.8
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 158
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 65.2
+Soil Moisture Level (two): 65.6
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 165
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 78.4
+Soil Moisture Level (two): 78.0
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 160
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 74.0
+Soil Moisture Level (two): 73.6
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 159
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 70.8
+Soil Moisture Level (two): 70.4
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 64
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 69.6
+Soil Moisture Level (two): 69.6
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 60
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 69.6
+Soil Moisture Level (two): 69.6
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 60
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 69.6
+Soil Moisture Level (two): 69.6
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 54
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 70.8
+Soil Moisture Level (two): 70.4
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 60
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 72.4
+Soil Moisture Level (two): 72.0
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 58
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 74.4
+Soil Moisture Level (two): 74.4
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 68
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 73.2
+Soil Moisture Level (two): 73.2
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 63
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 68.4
+Soil Moisture Level (two): 68.8
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 34
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 70.8
+Soil Moisture Level (two): 70.8
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 42
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 76.0
+Soil Moisture Level (two): 76.0
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 84
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 65.2
+Soil Moisture Level (two): 65.6
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 157
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 74.8
+Soil Moisture Level (two): 74.8
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 165
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 70.8
+Soil Moisture Level (two): 70.4
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 159
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 64.0
+Soil Moisture Level (two): 64.4
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 169
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 75.2
+Soil Moisture Level (two): 75.2
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 155
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 78.4
+Soil Moisture Level (two): 78.0
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 155
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 72.8
+Soil Moisture Level (two): 72.4
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 155
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 69.2
+Soil Moisture Level (two): 68.8
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 163
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 68.0
+Soil Moisture Level (two): 68.0
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 159
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 68.0
+Soil Moisture Level (two): 68.0
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 153
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 68.4
+Soil Moisture Level (two): 68.4
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 153
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 70.4
+Soil Moisture Level (two): 70.4
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 153
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 75.2
+Soil Moisture Level (two): 74.8
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 167
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 78.4
+Soil Moisture Level (two): 78.4
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 163
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 72.0
+Soil Moisture Level (two): 72.4
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 157
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 64.8
+Soil Moisture Level (two): 65.6
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 167
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 66.8
+Soil Moisture Level (two): 66.8
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 155
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 74.8
+Soil Moisture Level (two): 74.4
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 163
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 78.4
+Soil Moisture Level (two): 78.4
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 167
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 72.8
+Soil Moisture Level (two): 73.2
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 159
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 66.0
+Soil Moisture Level (two): 66.4
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 161
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 64.0
+Soil Moisture Level (two): 64.8
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 155
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 65.6
+Soil Moisture Level (two): 66.0
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 157
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 69.6
+Soil Moisture Level (two): 69.6
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 110
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 70.4
+Soil Moisture Level (two): 70.4
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 185
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 71.2
+Soil Moisture Level (two): 71.6
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 189
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 73.2
+Soil Moisture Level (two): 73.2
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 183
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 76.0
+Soil Moisture Level (two): 76.0
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 178
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 75.6
+Soil Moisture Level (two): 76.0
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 114
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 70.8
+Soil Moisture Level (two): 71.2
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 30
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 66.8
+Soil Moisture Level (two): 67.2
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 127
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 72.0
+Soil Moisture Level (two): 72.0
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 66
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 75.2
+Soil Moisture Level (two): 75.6
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 64
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 67.2
+Soil Moisture Level (two): 67.6
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 38
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 73.6
+Soil Moisture Level (two): 73.6
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 34
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 71.6
+Soil Moisture Level (two): 72.0
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 42
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 69.2
+Soil Moisture Level (two): 69.2
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 30
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 76.4
+Soil Moisture Level (two): 76.8
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 125
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 65.6
+Soil Moisture Level (two): 66.0
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 155
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 76.0
+Soil Moisture Level (two): 76.0
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 222
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 67.2
+Soil Moisture Level (two): 68.0
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 24
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 74.0
+Soil Moisture Level (two): 74.0
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 22
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 71.6
+Soil Moisture Level (two): 72.0
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 26
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 68.4
+Soil Moisture Level (two): 68.4
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 144
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 77.2
+Soil Moisture Level (two): 77.2
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 148
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 65.6
+Soil Moisture Level (two): 66.4
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 157
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 75.6
+Soil Moisture Level (two): 75.6
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 144
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 68.8
+Soil Moisture Level (two): 69.2
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 155
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 72.4
+Soil Moisture Level (two): 72.4
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 46
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 70.8
+Soil Moisture Level (two): 71.2
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 46
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 72.0
+Soil Moisture Level (two): 72.0
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 28
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 69.6
+Soil Moisture Level (two): 70.0
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 44
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 74.4
+Soil Moisture Level (two): 74.4
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 32
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 68.0
+Soil Moisture Level (two): 68.4
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 26
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 76.4
+Soil Moisture Level (two): 76.8
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 146
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 70.4
+Soil Moisture Level (two): 70.8
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 28
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 68.4
+Soil Moisture Level (two): 68.8
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 40
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 74.8
+Soil Moisture Level (two): 75.2
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 22
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 71.6
+Soil Moisture Level (two): 71.6
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 122
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 65.2
+Soil Moisture Level (two): 65.6
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 18
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 72.0
+Soil Moisture Level (two): 72.8
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 157
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 75.6
+Soil Moisture Level (two): 75.6
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 34
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 69.2
+Soil Moisture Level (two): 69.2
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 24
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 69.6
+Soil Moisture Level (two): 70.0
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 32
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 75.6
+Soil Moisture Level (two): 75.6
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 28
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 72.0
+Soil Moisture Level (two): 72.0
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 28
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 68.0
+Soil Moisture Level (two): 68.4
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 42
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 70.4
+Soil Moisture Level (two): 70.8
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 28
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 75.2
+Soil Moisture Level (two): 75.6
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 34
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 74.8
+Soil Moisture Level (two): 74.8
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 28
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 72.0
+Soil Moisture Level (two): 72.0
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 90
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 70.4
+Soil Moisture Level (two): 70.8
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 26
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 68.8
+Soil Moisture Level (two): 69.2
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 251
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 70.4
+Soil Moisture Level (two): 70.8
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 236
+END
+check
+
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 75.6
+Soil Moisture Level (two): 76.0
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 125
+END
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 78.4
+Soil Moisture Level (two): 78.4
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 157
+END
+BEGIN
+Sensor Node: 110
+Soil Moisture Level (one): 56.0
+Soil Moisture Level (two): 59.6
+External Temperature (C): 99
+Humidity (%): 116
+Underground Temperature (C): 105
+Water Flow Data: 110
+END
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 68.0
+Soil Moisture Level (two): 68.8
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 86
+END
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 76.8
+Soil Moisture Level (two): 76.8
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 153
+END
+BEGIN
+Sensor Node: 0
+Soil Moisture Level (one): 66.8
+Soil Moisture Level (two): 99.6
+External Temperature (C): 91
+Humidity (%): 70
+Underground Temperature (C): 0
+Water Flow Data: 0
+END
+BEGIN
+Sensor Node: 0
+Soil Moisture Level (one): 66.8
+Soil Moisture Level (two): 99.6
+External Temperature (C): 57
+Humidity (%): 59
+Underground Temperature (C): 0
+Water Flow Data: 0
+END
+BEGIN
+Sensor Node: 0
+Soil Moisture Level (one): 66.8
+Soil Moisture Level (two): 99.6
+External Temperature (C): 57
+Humidity (%): 59
+Underground Temperature (C): 0
+Water Flow Data: 0
+END
+BEGIN
+Sensor Node: 0
+Soil Moisture Level (one): 66.8
+Soil Moisture Level (two): 99.6
+External Temperature (C): 94
+Humidity (%): 75
+Underground Temperature (C): 0
+Water Flow Data: 0
+END
+BEGIN
+Sensor Node: 0
+Soil Moisture Level (one): 66.8
+Soil Moisture Level (two): 99.6
+External Temperature (C): 66
+Humidity (%): 68
+Underground Temperature (C): 0
+Water Flow Data: 0
+END
+BEGIN
+Sensor Node: 0
+Soil Moisture Level (one): 66.8
+Soil Moisture Level (two): 99.6
+External Temperature (C): 101
+Humidity (%): 101
+Underground Temperature (C): 0
+Water Flow Data: 0
+END
+BEGIN
+Sensor Node: 0
+Soil Moisture Level (one): 66.8
+Soil Moisture Level (two): 99.6
+External Temperature (C): 100
+Humidity (%): 84
+Underground Temperature (C): 0
+Water Flow Data: 0
+END
+BEGIN
+Sensor Node: 0
+Soil Moisture Level (one): 66.8
+Soil Moisture Level (two): 99.6
+External Temperature (C): 90
+Humidity (%): 90
+Underground Temperature (C): 0
+Water Flow Data: 0
+END
+BEGIN
+Sensor Node: 0
+Soil Moisture Level (one): 66.8
+Soil Moisture Level (two): 99.6
+External Temperature (C): 80
+Humidity (%): 80
+Underground Temperature (C): 0
+Water Flow Data: 0
+END
+BEGIN
+Sensor Node: 0
+Soil Moisture Level (one): 66.8
+Soil Moisture Level (two): 99.6
+External Temperature (C): 95
+Humidity (%): 75
+Underground Temperature (C): 0
+Water Flow Data: 0
+END
+BEGIN
+Sensor Node: 0
+Soil Moisture Level (one): 66.8
+Soil Moisture Level (two): 99.6
+External Temperature (C): 84
+Humidity (%): 83
+Underground Temperature (C): 0
+Water Flow Data: 0
+END
+BEGIN
+Sensor Node: 0
+Soil Moisture Level (one): 66.8
+Soil Moisture Level (two): 99.6
+External Temperature (C): 112
+Humidity (%): 109
+Underground Temperature (C): 0
+Water Flow Data: 0
+END
+BEGIN
+Sensor Node: 110
+Soil Moisture Level (one): 56.0
+Soil Moisture Level (two): 59.6
+External Temperature (C): 99
+Humidity (%): 116
+Underground Temperature (C): 105
+Water Flow Data: 110
+END
+BEGIN
+Sensor Node: 0
+Soil Moisture Level (one): 66.8
+Soil Moisture Level (two): 99.6
+External Temperature (C): 93
+Humidity (%): 73
+Underground Temperature (C): 0
+Water Flow Data: 0
+END
+BEGIN
+Sensor Node: 0
+Soil Moisture Level (one): 66.8
+Soil Moisture Level (two): 99.6
+External Temperature (C): 107
+Humidity (%): 106
+Underground Temperature (C): 0
+Water Flow Data: 0
+END
+BEGIN
+Sensor Node: 110
+Soil Moisture Level (one): 56.0
+Soil Moisture Level (two): 59.6
+External Temperature (C): 99
+Humidity (%): 116
+Underground Temperature (C): 105
+Water Flow Data: 110
+END
+BEGIN
+Sensor Node: 0
+Soil Moisture Level (one): 66.8
+Soil Moisture Level (two): 99.6
+External Temperature (C): 95
+Humidity (%): 78
+Underground Temperature (C): 0
+Water Flow Data: 0
+END
+BEGIN
+Sensor Node: 0
+Soil Moisture Level (one): 66.8
+Soil Moisture Level (two): 99.6
+External Temperature (C): 109
+Humidity (%): 109
+Underground Temperature (C): 0
+Water Flow Data: 0
+END
+BEGIN
+Sensor Node: 110
+Soil Moisture Level (one): 56.0
+Soil Moisture Level (two): 59.6
+External Temperature (C): 99
+Humidity (%): 116
+Underground Temperature (C): 105
+Water Flow Data: 110
+END
+BEGIN
+Sensor Node: 110
+Soil Moisture Level (one): 56.0
+Soil Moisture Level (two): 59.6
+External Temperature (C): 99
+Humidity (%): 116
+Underground Temperature (C): 105
+Water Flow Data: 110
+END
+BEGIN
+Sensor Node: 110
+Soil Moisture Level (one): 56.0
+Soil Moisture Level (two): 59.6
+External Temperature (C): 99
+Humidity (%): 116
+Underground Temperature (C): 105
+Water Flow Data: 110
+END
+BEGIN
+Sensor Node: 110
+Soil Moisture Level (one): 56.0
+Soil Moisture Level (two): 59.6
+External Temperature (C): 99
+Humidity (%): 116
+Underground Temperature (C): 105
+Water Flow Data: 110
+END
+BEGIN
+Sensor Node: 110
+Soil Moisture Level (one): 56.0
+Soil Moisture Level (two): 59.6
+External Temperature (C): 99
+Humidity (%): 116
+Underground Temperature (C): 105
+Water Flow Data: 110
+END
+BEGIN
+Sensor Node: 0
+Soil Moisture Level (one): 66.8
+Soil Moisture Level (two): 99.6
+External Temperature (C): 94
+Humidity (%): 73
+Underground Temperature (C): 0
+Water Flow Data: 0
+END
+BEGIN
+Sensor Node: 0
+Soil Moisture Level (one): 66.8
+Soil Moisture Level (two): 99.6
+External Temperature (C): 99
+Humidity (%): 81
+Underground Temperature (C): 0
+Water Flow Data: 0
+END
+BEGIN
+Sensor Node: 0
+Soil Moisture Level (one): 66.8
+Soil Moisture Level (two): 99.6
+External Temperature (C): 62
+Humidity (%): 64
+Underground Temperature (C): 0
+Water Flow Data: 0
+END
+BEGIN
+Sensor Node: 0
+Soil Moisture Level (one): 66.8
+Soil Moisture Level (two): 99.6
+External Temperature (C): 105
+Humidity (%): 105
+Underground Temperature (C): 0
+Water Flow Data: 0
+END
+BEGIN
+Sensor Node: 110
+Soil Moisture Level (one): 56.0
+Soil Moisture Level (two): 59.6
+External Temperature (C): 99
+Humidity (%): 116
+Underground Temperature (C): 105
+Water Flow Data: 110
+END
+BEGIN
+Sensor Node:0
+Soil Moisture Level (one):83
+Soil Moisture Level (two):1
+External Temperature:102
+Humidity :87
+Underground Temperature:0
+Water Flow Data:0
+END
+BEGIN
+Sensor Node: 48
+Soil Moisture Level (one): 80.8
+Soil Moisture Level (two): 80.8
+External Temperature (C): 48
+Humidity (%): 48
+Underground Temperature (C): 48
+Water Flow Data: 48
+END
+BEGIN
+Sensor Node:0
+Soil Moisture Level (one):83
+Soil Moisture Level (two):1
+External Temperature:75
+Humidity :75
+Underground Temperature:0
+Water Flow Data:0
+END
+BEGIN
+Sensor Node: 48
+Soil Moisture Level (one): 80.8
+Soil Moisture Level (two): 80.8
+External Temperature (C): 48
+Humidity (%): 48
+Underground Temperature (C): 48
+Water Flow Data: 48
+END
+BEGIN
+Sensor Node:0
+Soil Moisture Level (one):83
+Soil Moisture Level (two):1
+External Temperature:87
+Humidity :88
+Underground Temperature:0
+Water Flow Data:0
+END
+BEGIN
+Sensor Node: 48
+Soil Moisture Level (one): 80.8
+Soil Moisture Level (two): 80.8
+External Temperature (C): 48
+Humidity (%): 48
+Underground Temperature (C): 48
+Water Flow Data: 48
+END
+BEGIN
+Sensor Node:0
+Soil Moisture Level (one):83
+Soil Moisture Level (two):1
+External Temperature:74
+Humidity :75
+Underground Temperature:0
+Water Flow Data:0
+END
+BEGIN
+Sensor Node: 48
+Soil Moisture Level (one): 80.8
+Soil Moisture Level (two): 80.8
+External Temperature (C): 48
+Humidity (%): 48
+Underground Temperature (C): 48
+Water Flow Data: 48
+END
+BEGIN
+Sensor Node:0
+Soil Moisture Level (one):83
+Soil Moisture Level (two):1
+External Temperature:51
+Humidity :53
+Underground Temperature:0
+Water Flow Data:0
+END
+BEGIN
+Sensor Node: 48
+Soil Moisture Level (one): 80.8
+Soil Moisture Level (two): 80.8
+External Temperature (C): 48
+Humidity (%): 48
+Underground Temperature (C): 48
+Water Flow Data: 48
+END
+BEGIN
+Sensor Node:0
+Soil Moisture Level (one):83
+Soil Moisture Level (two):1
+External Temperature:60
+Humidity :61
+Underground Temperature:0
+Water Flow Data:0
+END
+BEGIN
+Sensor Node: 48
+Soil Moisture Level (one): 80.8
+Soil Moisture Level (two): 80.8
+External Temperature (C): 48
+Humidity (%): 48
+Underground Temperature (C): 48
+Water Flow Data: 48
+END
+BEGIN
+Sensor Node: 110
+Soil Moisture Level (one): 56.0
+Soil Moisture Level (two): 59.6
+External Temperature (C): 99
+Humidity (%): 116
+Underground Temperature (C): 105
+Water Flow Data: 110
+END
+BEGIN
+Sensor Node:0
+Soil Moisture Level (one):83
+Soil Moisture Level (two):1
+External Temperature:92
+Humidity :68
+Underground Temperature:0
+Water Flow Data:0
+END
+BEGIN
+Sensor Node: 48
+Soil Moisture Level (one): 80.8
+Soil Moisture Level (two): 80.8
+External Temperature (C): 48
+Humidity (%): 48
+Underground Temperature (C): 48
+Water Flow Data: 48
+END
+BEGIN
+Sensor Node:0
+Soil Moisture Level (one):83
+Soil Moisture Level (two):1
+External Temperature:65
+Humidity :66
+Underground Temperature:0
+Water Flow Data:0
+END
+BEGIN
+Sensor Node: 48
+Soil Moisture Level (one): 80.8
+Soil Moisture Level (two): 80.8
+External Temperature (C): 48
+Humidity (%): 48
+Underground Temperature (C): 48
+Water Flow Data: 48
+END
+BEGIN
+Sensor Node:0
+Soil Moisture Level (one):83
+Soil Moisture Level (two):1
+External Temperature:76
+Humidity :77
+Underground Temperature:0
+Water Flow Data:0
+END
+BEGIN
+Sensor Node: 48
+Soil Moisture Level (one): 80.8
+Soil Moisture Level (two): 80.8
+External Temperature (C): 48
+Humidity (%): 48
+Underground Temperature (C): 48
+Water Flow Data: 48
+END
+BEGIN
+Sensor Node:0
+Soil Moisture Level (one):83
+Soil Moisture Level (two):1
+External Temperature:91
+Humidity :92
+Underground Temperature:0
+Water Flow Data:0
+END
+BEGIN
+Sensor Node: 48
+Soil Moisture Level (one): 80.8
+Soil Moisture Level (two): 80.8
+External Temperature (C): 48
+Humidity (%): 48
+Underground Temperature (C): 48
+Water Flow Data: 48
+END
+BEGIN
+Sensor Node:0
+Soil Moisture Level (one):83
+Soil Moisture Level (two):1
+External Temperature:102
+Humidity :102
+Underground Temperature:0
+Water Flow Data:0
+END
+BEGIN
+Sensor Node: 48
+Soil Moisture Level (one): 80.8
+Soil Moisture Level (two): 80.8
+External Temperature (C): 48
+Humidity (%): 48
+Underground Temperature (C): 48
+Water Flow Data: 48
+END
+BEGIN
+Sensor Node:0
+Soil Moisture Level (one):83
+Soil Moisture Level (two):1
+External Temperature:94
+Humidity :94
+Underground Temperature:0
+Water Flow Data:0
+END
+BEGIN
+Sensor Node: 48
+Soil Moisture Level (one): 80.8
+Soil Moisture Level (two): 80.8
+External Temperature (C): 48
+Humidity (%): 48
+Underground Temperature (C): 48
+Water Flow Data: 48
+END
+BEGIN
+Sensor Node:0
+Soil Moisture Level (one):83
+Soil Moisture Level (two):1
+External Temperature:63
+Humidity :63
+Underground Temperature:0
+Water Flow Data:0
+END
+BEGIN
+Sensor Node: 48
+Soil Moisture Level (one): 80.8
+Soil Moisture Level (two): 80.8
+External Temperature (C): 48
+Humidity (%): 48
+Underground Temperature (C): 48
+Water Flow Data: 48
+END
+BEGIN
+Sensor Node:0
+Soil Moisture Level (one):83
+Soil Moisture Level (two):1
+External Temperature:61
+Humidity :62
+Underground Temperature:0
+Water Flow Data:0
+END
+BEGIN
+Sensor Node: 48
+Soil Moisture Level (one): 80.8
+Soil Moisture Level (two): 80.8
+External Temperature (C): 48
+Humidity (%): 48
+Underground Temperature (C): 48
+Water Flow Data: 48
+END
+BEGIN
+Sensor Node: 110
+Soil Moisture Level (one): 56.0
+Soil Moisture Level (two): 59.6
+External Temperature (C): 99
+Humidity (%): 116
+Underground Temperature (C): 105
+Water Flow Data: 110
+END
+BEGIN
+Sensor Node: 0
+Soil Moisture Level (one): 66.8
+Soil Moisture Level (two): 99.6
+External Temperature (C): 91
+Humidity (%): 66
+Underground Temperature (C): 0
+Water Flow Data: 0
+END
+BEGIN
+Sensor Node: 0
+Soil Moisture Level (one): 66.8
+Soil Moisture Level (two): 99.6
+External Temperature (C): 78
+Humidity (%): 77
+Underground Temperature (C): 0
+Water Flow Data: 0
+END
+BEGIN
+Sensor Node: 0
+Soil Moisture Level (one): 66.8
+Soil Moisture Level (two): 99.6
+External Temperature (C): 86
+Humidity (%): 86
+Underground Temperature (C): 0
+Water Flow Data: 0
+END
+BEGIN
+Sensor Node: 110
+Soil Moisture Level (one): 56.0
+Soil Moisture Level (two): 59.6
+External Temperature (C): 99
+Humidity (%): 116
+Underground Temperature (C): 105
+Water Flow Data: 110
+END
+BEGIN
+Sensor Node: 0
+Soil Moisture Level (one): 66.8
+Soil Moisture Level (two): 99.6
+External Temperature (C): 101
+Humidity (%): 86
+Underground Temperature (C): 0
+Water Flow Data: 0
+END
+BEGIN
+Sensor Node: 110
+Soil Moisture Level (one): 56.0
+Soil Moisture Level (two): 59.6
+External Temperature (C): 99
+Humidity (%): 116
+Underground Temperature (C): 105
+Water Flow Data: 110
+END
+BEGIN
+Sensor Node: 0
+Soil Moisture Level (one): 66.8
+Soil Moisture Level (two): 99.6
+External Temperature (C): 114
+Humidity (%): 110
+Underground Temperature (C): 0
+Water Flow Data: 0
+END
+BEGIN
+Sensor Node: 0
+Soil Moisture Level (one): 66.8
+Soil Moisture Level (two): 99.6
+External Temperature (C): 87
+Humidity (%): 88
+Underground Temperature (C): 0
+Water Flow Data: 0
+END
+BEGIN
+Sensor Node: 0
+Soil Moisture Level (one): 66.8
+Soil Moisture Level (two): 99.6
+External Temperature (C): 85
+Humidity (%): 86
+Underground Temperature (C): 0
+Water Flow Data: 0
+END
+BEGIN
+Sensor Node: 110
+Soil Moisture Level (one): 56.0
+Soil Moisture Level (two): 59.6
+External Temperature (C): 99
+Humidity (%): 116
+Underground Temperature (C): 105
+Water Flow Data: 110
+END
+BEGIN
+Sensor Node: 0
+Soil Moisture Level (one): 66.8
+Soil Moisture Level (two): 99.6
+External Temperature (C): 102
+Humidity (%): 86
+Underground Temperature (C): 0
+Water Flow Data: 0
+END
+BEGIN
+Sensor Node: 0
+Soil Moisture Level (one): 66.8
+Soil Moisture Level (two): 99.6
+External Temperature (C): 97
+Humidity (%): 97
+Underground Temperature (C): 0
+Water Flow Data: 0
+END
+BEGIN
+Sensor Node: 110
+Soil Moisture Level (one): 56.0
+Soil Moisture Level (two): 59.6
+External Temperature (C): 99
+Humidity (%): 116
+Underground Temperature (C): 105
+Water Flow Data: 110
+END
+BEGIN
+Sensor Node: 0
+Soil Moisture Level (one): 66.8
+Soil Moisture Level (two): 99.6
+External Temperature (C): 116
+Humidity (%): 117
+Underground Temperature (C): 0
+Water Flow Data: 0
+END
+BEGIN
+Sensor Node: 0
+Soil Moisture Level (one): 66.8
+Soil Moisture Level (two): 99.6
+External Temperature (C): 112
+Humidity (%): 107
+Underground Temperature (C): 0
+Water Flow Data: 0
+END
+BEGIN
+Sensor Node: 0
+Soil Moisture Level (one): 66.8
+Soil Moisture Level (two): 99.6
+External Temperature (C): 72
+Humidity (%): 74
+Underground Temperature (C): 0
+Water Flow Data: 0
+END
+BEGIN
+Sensor Node: 0
+Soil Moisture Level (one): 66.8
+Soil Moisture Level (two): 99.6
+External Temperature (C): 71
+Humidity (%): 72
+Underground Temperature (C): 0
+Water Flow Data: 0
+END
+BEGIN
+Sensor Node: 0
+Soil Moisture Level (one): 66.8
+Soil Moisture Level (two): 99.6
+External Temperature (C): 99
+Humidity (%): 82
+Underground Temperature (C): 0
+Water Flow Data: 0
+END
+BEGIN
+Sensor Node: 0
+Soil Moisture Level (one): 66.8
+Soil Moisture Level (two): 99.6
+External Temperature (C): 90
+Humidity (%): 90
+Underground Temperature (C): 0
+Water Flow Data: 0
+END
+BEGIN
+Sensor Node: 0
+Soil Moisture Level (one): 66.8
+Soil Moisture Level (two): 99.6
+External Temperature (C): 68
+Humidity (%): 69
+Underground Temperature (C): 0
+Water Flow Data: 0
+END
+BEGIN
+Sensor Node: 0
+Soil Moisture Level (one): 66.8
+Soil Moisture Level (two): 99.6
+External Temperature (C): 102
+Humidity (%): 86
+Underground Temperature (C): 0
+Water Flow Data: 0
+END
+BEGIN
+Sensor Node: 0
+Soil Moisture Level (one): 66.8
+Soil Moisture Level (two): 99.6
+External Temperature (C): 58
+Humidity (%): 59
+Underground Temperature (C): 0
+Water Flow Data: 0
+END
+BEGIN
+Sensor Node: 0
+Soil Moisture Level (one): 66.8
+Soil Moisture Level (two): 99.6
+External Temperature (C): 65
+Humidity (%): 66
+Underground Temperature (C): 0
+Water Flow Data: 0
+END
+BEGIN
+Sensor Node: 0
+Soil Moisture Level (one): 66.8
+Soil Moisture Level (two): 99.6
+External Temperature (C): 108
+Humidity (%): 98
+Underground Temperature (C): 0
+Water Flow Data: 0
+END
+BEGIN
+Sensor Node: 0
+Soil Moisture Level (one): 66.8
+Soil Moisture Level (two): 99.6
+External Temperature (C): 82
+Humidity (%): 83
+Underground Temperature (C): 0
+Water Flow Data: 0
+END
+BEGIN
+Sensor Node: 0
+Soil Moisture Level (one): 66.8
+Soil Moisture Level (two): 99.6
+External Temperature (C): 76
+Humidity (%): 77
+Underground Temperature (C): 0
+Water Flow Data: 0
+END
+BEGIN
+Sensor Node: 110
+Soil Moisture Level (one): 56.0
+Soil Moisture Level (two): 59.6
+External Temperature (C): 99
+Humidity (%): 116
+Underground Temperature (C): 105
+Water Flow Data: 110
+END
+BEGIN
+Sensor Node: 110
+Soil Moisture Level (one): 56.0
+Soil Moisture Level (two): 59.6
+External Temperature (C): 99
+Humidity (%): 116
+Underground Temperature (C): 105
+Water Flow Data: 110
+END
+BEGIN
+Sensor Node: 110
+Soil Moisture Level (one): 56.0
+Soil Moisture Level (two): 59.6
+External Temperature (C): 99
+Humidity (%): 116
+Underground Temperature (C): 105
+Water Flow Data: 110
+END
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 60.4
+Soil Moisture Level (two): 60.4
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 150
+END
+BEGIN
+Sensor Node: 1
+Soil Moisture Level (one): 78.8
+Soil Moisture Level (two): 78.0
+External Temperature (C): 0
+Humidity (%): 0
+Underground Temperature (C): 0
+Water Flow Data: 159
+END

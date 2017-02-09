@@ -1,0 +1,96 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="darkthemes.Site1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+       <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="style.css" />
+
+
+<!---------------------------------script-------------->
+  <link rel="stylesheet" href="style.css" type="text/css" media="screen" />
+  <script type="text/javascript">      var _siteRoot = 'index.html', _root = 'index.html';</script>
+  <script type="text/javascript" src="js/jquery.js"></script>
+  <script type="text/javascript" src="js/scripts.js"></script>
+  <script src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.2.min.js" type="text/javascript"></script>
+   
+
+     
+   
+   
+
+<title>TransWorld</title>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+
+    <form id="form1" runat="server">
+    <div>
+        
+        <div id="wrap">
+
+
+<div id="header">
+<h1><a href="#">Smart Irrigation for Agricultural Area of Pakistan</a></h1>
+<ul class="socials">
+
+		<li class="twitter"><a href="http://www.twitter.com">Twitter</a></li>
+
+		<li class="facebook"><a href="http://www.facebook.com">Facebook</a></li>
+
+		<li class="digg"><a href="http://www.digg.com">Digg</a></li>
+
+		<li class="linkedin"><a href="http://www.linkedin.com">Linkedin</a></li>
+
+	</ul>
+
+    </div>
+
+
+<div id="menu">
+<ul>
+<li><a href="MainHome.aspx">Home</a></li>
+<li><a href="#"></a></li>
+<li><a href="#"></a></li>
+<li><a href="#"></a></li>
+<li><a href="default.aspx">Log Out</a></li>
+</ul>
+</div>
+
+<asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+
+</asp:ContentPlaceHolder> 
+<div id="contentwrap"> 
+
+<div id="content">
+
+
+<asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+        
+<h2>Smart Application for Smart Agriculture</h2>
+
+<p>The focus of this project is to design a Wireless Sensing Network (WSN) that employs various sensors to acquire different environmental parameters. Acquisition module receives the data from WSN nodes and the processing module takes the decision if there is a need of watering the crops. The pumps are switched ON/OFF as and when necessary. It also defines the proper quantity of water to be provided. The history log is uploaded onto the server to take intelligent decisions, where it will be shared through the handheld sets for monitoring. The user will be updated about the water level in farms and can manually control the irrigation system too. The system is powered by power harvesting module utilizing solar panels. </p>
+
+</asp:ContentPlaceHolder>
+
+</div>
+
+
+
+<ul runat="server" id="images">
+
+</ul>
+
+</div>
+
+<div style="clear: both;"> </div>
+
+
+
+</div>
+    </form>
+</body>
+</html>

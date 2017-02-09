@@ -1,0 +1,11 @@
+*** Installation started 2015/09/11 16:40 ***
+Source: C:\Users\Administrator\Downloads\dba-0.5.1.linux-x86_64.exe
+999 Root Key: HKEY_LOCAL_MACHINE
+020 Reg DB Key: [Software\Microsoft\Windows\CurrentVersion\Uninstall]dba-py2.7
+040 Reg DB Value: [Software\Microsoft\Windows\CurrentVersion\Uninstall\dba-py2.7]DisplayName=Python 2.7 dba-0.5.1
+040 Reg DB Value: [Software\Microsoft\Windows\CurrentVersion\Uninstall\dba-py2.7]UninstallString="C:\Python27\Removedba.exe" -u "C:\Python27\dba-wininst.log"
+200 File Copy: C:\Python27\Lib\site-packages\dba-0.5.1.egg-info
+100 Made Dir: C:\Python27\Lib\site-packages\dba
+200 File Copy: C:\Python27\Lib\site-packages\dba\__init__.py
+200 File Copy: C:\Python27\Lib\site-packages\dba\__init__.pyc
+200 File Copy: C:\Python27\Lib\site-packages\dba\__init__.pyo

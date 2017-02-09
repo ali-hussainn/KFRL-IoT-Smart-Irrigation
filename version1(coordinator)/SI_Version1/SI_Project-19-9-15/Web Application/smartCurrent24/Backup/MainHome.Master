@@ -1,0 +1,123 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MainHome.master.cs" Inherits="SmartIrrigation.MainHome1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="style.css" />
+
+
+<!---------------------------------script-------------->
+  <link rel="stylesheet" href="style.css" type="text/css" media="screen" />
+  <script type="text/javascript">      var _siteRoot = 'index.html', _root = 'index.html';</script>
+  <script type="text/javascript" src="js/jquery.js"></script>
+  <script type="text/javascript" src="js/scripts.js"></script>
+
+<title>TransWorld</title>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+
+    <form id="form1" runat="server">
+    <div>
+        
+        <div id="wrap">
+
+
+<div id="header">
+<h1><a href="#">TransWorld</a></h1>
+<ul class="socials">
+
+		<li class="twitter"><a href="http://www.twitter.com">Twitter</a></li>
+
+		<li class="facebook"><a href="http://www.facebook.com">Facebook</a></li>
+
+		<li class="digg"><a href="http://www.digg.com">Digg</a></li>
+
+		<li class="linkedin"><a href="http://www.linkedin.com">Linkedin</a></li>
+
+	</ul>
+<h2>(Estimating Maintaining and Organizting your vehicle)</h2>
+
+    </div>
+
+
+<div id="menu">
+<ul>
+<li><a href="MainHome.aspx">Home</a></li>
+<li><a href="#"></a></li>
+<li><a href="#"></a></li>
+<li><a href="#"></a></li>
+<li><a href="default.aspx">Log Out</a></li>
+</ul>
+</div>
+
+<asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+
+</asp:ContentPlaceHolder> 
+<div id="contentwrap"> 
+
+<div id="content">
+
+
+<asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+        
+<h2>Tempus mentem debere lor cum sacras volunt capram</h2>
+
+<p>Non facilius quaesita uno originem. Conflantur me mo ob scripturas in divisibile attendenti deprehendi. Corporea ac perpauca innumera ad collecta contumax. Humanas accipio facilem et colores ut ut. Infinitum veritates dubitabam re ex. Vigilantes substantia dubitandum de ha frequenter cavillandi in ex. Ac putantur occurrit judicium profecto ut.</p>
+
+<p>Excludere im sapientia evidenter et delusisse. Externarum vi requiratur in judicarent an cavillandi. Agi praecise similium sequatur existant vel sed. Visa rem unam idea nia omne esse. An ad ea adeo otii heri vero homo. Essem paulo rem prava meo fas firma nomen.</p>
+
+<p>Quo locis utens timet nobis miror sua. Aeque fecto ii im nulli ut forte mo. Ha ac creatorem conservat perfectae exhibetur. Fas rea gallice cui exhibet probant ponamus per. Occurreret ab facultates reducantur to ei si sufficiunt. Venturum ex dubitare to curantes meditari eo opinione explicui. Sui eos vix quietem sentire dicamne antehac remotam figuram age. Nam devenimus obdormiam usu dum eminenter hac. Plus vi amen ad quis se fiat meam ii.</p>
+
+<h2>Quo locis utens timet nobis miror sua</h2>
+
+<p>Fusce ullamcorper libero nec turpis semper et rutrum est hendrerit. Etiam sit amet nibh in tortor ultrices tempus. Integer molestie, nisi tempor mollis dapibus, ipsum sem cursus ante, at volutpat est erat id lorem. Nulla mattis porta lectus, nec iaculis est posuere vitae. Suspendisse eu nulla mi, in fermentum quam. In vulputate rutrum mauris ut luctus. Cras vehicula ante vitae nisi consequat consectetur.</p>
+
+<p>Phasellus fringilla, felis sed dignissim dignissim, eros metus eleifend arcu, quis aliquet sapien eros convallis nulla. Aenean quis tellus ligula. Ut facilisis porta nibh, ut volutpat leo faucibus a.</p>
+
+<p>Proin ac dui diam, vitae molestie nisi. Integer leo lectus, interdum sit amet vehicula non, porttitor id elit. Nunc laoreet turpis orci. Suspendisse quis enim id libero pellentesque tincidunt. Sed sed tellus at eros sodales blandit sed id velit. Phasellus ullamcorper odio non neque tincidunt quis rhoncus odio tempor. Curabitur ac nisl felis, et pulvinar risus. Nullam ultrices felis quis ipsum scelerisque sodales. Fusce leo nisi, accumsan sit amet gravida eget, tincidunt non urna. Maecenas eleifend orci mauris, dapibus auctor massa. Ut ultrices accumsan enim at bibendum. </p>
+
+</asp:ContentPlaceHolder>
+
+</div>
+
+<div id="sidebar">
+<h3>Vehicle Organization</h3>
+<ul>
+
+<li><a href="VehicleRegistration.aspx">Add new vehicle</a></li>
+<li><a href="UserProfile.aspx">View Profile</a></li>
+<li><a href="VehicleExpense.aspx">View Expenses</a></li>
+<li><a href="VehicleFuel.aspx">View Fuel Details</a></li>
+<li><a href="VehicleInsurance.aspx">View Insurance Details</a></li>
+<li><a href="VehicleTracker.aspx">View Tracker Details</a></li>
+
+
+</ul>
+
+<h3>Vehicle Records </h3>
+    <p>
+        &nbsp;</p>
+<ul runat="server" id="member">
+
+</ul>
+
+</div>
+
+<div style="clear: both;"> </div>
+
+</div>
+
+<div id="footer">
+<p>  <a href="#"></a> <a href=></a></p>
+</div>
+
+</div>
+    </div>
+    </form>
+</body>
+</html>

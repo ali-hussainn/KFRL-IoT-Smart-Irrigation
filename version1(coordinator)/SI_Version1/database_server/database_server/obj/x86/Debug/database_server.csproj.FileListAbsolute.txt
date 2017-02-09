@@ -1,0 +1,16 @@
+c:\users\administrator\documents\visual studio 2010\Projects\database_server\database_server\bin\Debug\database_server.exe
+c:\users\administrator\documents\visual studio 2010\Projects\database_server\database_server\bin\Debug\database_server.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\database_server\database_server\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\database_server\database_server\obj\x86\Debug\database_server.exe
+c:\users\administrator\documents\visual studio 2010\Projects\database_server\database_server\obj\x86\Debug\database_server.pdb
+C:\Users\Administrator\Desktop\database_server\database_server\obj\x86\Debug\database_server.exe
+C:\Users\Administrator\Desktop\database_server\database_server\obj\x86\Debug\database_server.pdb
+C:\Users\Administrator\Desktop\database_server\database_server\bin\Debug\database_server.exe
+C:\Users\Administrator\Desktop\database_server\database_server\bin\Debug\database_server.pdb
+C:\Users\User\Desktop\database_server\database_server\bin\Debug\database_server.exe
+C:\Users\User\Desktop\database_server\database_server\bin\Debug\database_server.pdb
+C:\Users\User\Desktop\database_server\database_server\obj\x86\Debug\database_server.exe
+C:\Users\User\Desktop\database_server\database_server\obj\x86\Debug\database_server.pdb
+C:\Users\User\Dropbox\database_server\database_server\obj\x86\Debug\database_server.exe
+C:\Users\User\Dropbox\database_server\database_server\obj\x86\Debug\database_server.pdb
+C:\Users\Administrator\Desktop\database_server\database_server\obj\x86\Debug\database_server.csprojResolveAssemblyReference.cache
